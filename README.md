@@ -2,6 +2,8 @@
 
 This Python script monitors the movement of the mouse cursor on the screen and prints an error message if it remains stationary for a certain amount of time. The script uses the `pyautogui`, `requests`, and `time` libraries.
 
+![Screenshot](screenshot.jpg)
+
 ## Requirements
 
 - `pyautogui` module must be installed. To install it, run `pip install pyautogui` in the command line.
