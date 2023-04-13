@@ -1,4 +1,4 @@
-# Cursor Movement Monitor
+# Mouse Cursor Tracker
 
 This Python script monitors the movement of the mouse cursor on the screen and prints an error message if it remains stationary for a certain amount of time. The script uses the `pyautogui`, `requests`, and `time` libraries.
 
